@@ -2,12 +2,8 @@
 
 <div align="center">
   <ul>
-    <li>Contact : 093-549-4239</li>
-    <li>IG : godxkong</li>
-    <li>Facebook : kongphop kaochot</li>
-  </ul>
+    <h3>Contact : 093-549-4239</h3>
+    <h3>IG : godxkong </h3>
+    <h3>li>Facebook : kongphop kaochot</h3>
 </div>
-<center>
-  <a href="https://example.com" target="_blank">ดูตัวอย่างโปรเจคของฉัน</a>
-</center>
-<div align="center"> Design UI : kongphop kaochot</div>
+<div align="center"> Design UI : <a href="https://www.apilarbland.com/" target="_blank">ฉันออกแบบ UI คลิกเพื่อดู</a></div>
